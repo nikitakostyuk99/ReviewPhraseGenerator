@@ -1,0 +1,7 @@
+D:\Проекты\Review\ReviewSystem\ReviewSystem\bin\Debug\ReviewSystem.exe.config
+D:\Проекты\Review\ReviewSystem\ReviewSystem\bin\Debug\ReviewSystem.exe
+D:\Проекты\Review\ReviewSystem\ReviewSystem\bin\Debug\ReviewSystem.pdb
+D:\Проекты\Review\ReviewSystem\ReviewSystem\obj\Debug\ReviewSystem.csprojResolveAssemblyReference.cache
+D:\Проекты\Review\ReviewSystem\ReviewSystem\obj\Debug\ReviewSystem.csproj.CoreCompileInputs.cache
+D:\Проекты\Review\ReviewSystem\ReviewSystem\obj\Debug\ReviewSystem.exe
+D:\Проекты\Review\ReviewSystem\ReviewSystem\obj\Debug\ReviewSystem.pdb
